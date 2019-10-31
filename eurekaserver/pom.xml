@@ -77,7 +77,7 @@
 		<repository>
 			<id>spring-milestones</id>
 			<name>Spring Milestones</name>
-			<url>https://github.com/tulasiprasad254/prasad.gite</url>
+			<url>https://repo.spring.io/mileston</url>
 		</repository>
 	</repositories>
 
